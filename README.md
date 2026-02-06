@@ -1,9 +1,17 @@
 
-![AIDLC Lifecycle](Docs/aidlc-lifecycle.png)
 
 # AIDLC™ – AI-Driven Development & Quality Lifecycle
 
 **Created by: Kiran Kumar Kanumuri**
+
+![AIDLC Lifecycle](Docs/aidlc-lifecycle.png)
+
+
+> **Important clarification:**  
+> **AIDLC™ is not intended to replace or undermine existing SDLC models, TDD, or other established engineering practices.**
+
+> It is designed to **complement and enhance them** by embedding AI as an **augmentation layer** across the development and quality lifecycle.
+
 
 ---
 
