@@ -12,7 +12,7 @@
 
 > It is designed to **complement and enhance them** by embedding AI as an **augmentation layer** across the development and quality lifecycle.
 
-**Attribution note:**  
+ **Attribution note:**  
 > The **AIDLC™** name and framework structure are proposed by the author and should be referenced with attribution.
 ---
 
