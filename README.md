@@ -1,32 +1,32 @@
 
 
-# AIDLC™ – AI-Driven Development & Quality Lifecycle
+# AIDLC-Q™ – AI-Driven Development & Quality Lifecycle
 
 **Created by: Kiran Kumar Kanumuri**
 
-![AIDLC Lifecycle](Docs/aidlc-lifecycle.png)
+![AIDLC-Q Lifecycle](Docs/AIDLC-Q-lifecycle.png)
 
 
 > **Important clarification:**  
-> **AIDLC™ is not intended to replace or undermine existing SDLC models, TDD, or other established engineering practices.**
+> **AIDLC-Q™ is not intended to replace or undermine existing SDLC models, TDD, or other established engineering practices.**
 
 > It is designed to **complement and enhance them** by embedding AI as an **augmentation layer** across the development and quality lifecycle.
 
  **Attribution note:**  
-> The **AIDLC™** name and framework structure are proposed by the author and should be referenced with attribution.
+> The **AIDLC-Q™** name and framework structure are proposed by the author and should be referenced with attribution.
 ---
 
-## 🚀 What is AIDLC™?
+## 🚀 What is AIDLC-Q™?
 
-**AIDLC™ (AI-Driven Development & Quality Lifecycle)** is an industry-proposed framework that embeds Artificial Intelligence across development and quality processes to improve **speed, cost efficiency, and release confidence**.
+**AIDLC-Q™ (AI-Driven Development & Quality Lifecycle)** is an industry-proposed framework that embeds Artificial Intelligence across development and quality processes to improve **speed, cost efficiency, and release confidence**.
 
-AIDLC™ augments existing **Agile and DevOps** practices by making AI a **first-class lifecycle participant**, from intent discovery to continuous learning.
+AIDLC-Q™ augments existing **Agile and DevOps** practices by making AI a **first-class lifecycle participant**, from intent discovery to continuous learning.
 
 > **Tagline:** *AI is a lifecycle citizen, not just a tool.*
 
 ---
 
-## 🧭 Why AIDLC™?
+## 🧭 Why AIDLC-Q™?
 
 Modern software teams face:
 - Rising QA and automation maintenance costs
@@ -34,13 +34,13 @@ Modern software teams face:
 - Fragmented AI adoption without structure
 - Low release confidence despite automation
 
-AIDLC™ addresses these challenges by **structuring how AI participates across the SDLC**, instead of using AI in isolated tools.
+AIDLC-Q™ addresses these challenges by **structuring how AI participates across the SDLC**, instead of using AI in isolated tools.
 
 ---
 
-## 🔁 AIDLC™ Lifecycle Overview
+## 🔁 AIDLC-Q™ Lifecycle Overview
 
-AIDLC™ consists of **six interconnected phases**, forming a continuous learning loop:
+AIDLC-Q™ consists of **six interconnected phases**, forming a continuous learning loop:
 
 1. **Intent Discovery**
 2. **AI-First Design & Test Ideation**
@@ -97,22 +97,22 @@ AI learns from production data, incidents, and user behavior and feeds insights 
 
 ---
 
-## 🔄 How AIDLC™ Augments Agile & DevOps
+## 🔄 How AIDLC-Q™ Augments Agile & DevOps
 
-AIDLC™ **does not replace** Agile or DevOps.
+AIDLC-Q™ **does not replace** Agile or DevOps.
 
 It enhances them by:
 - Fitting naturally into sprint planning and backlog refinement
 - Enhancing CI/CD pipelines with AI-driven validation
 - Improving release confidence using predictive intelligence
 
-AIDLC™ acts as an **AI augmentation layer** over existing delivery models.
+AIDLC-Q™ acts as an **AI augmentation layer** over existing delivery models.
 
 ---
 
 ## 💼 Business Value & ROI
 
-Organizations adopting AIDLC™ can achieve:
+Organizations adopting AIDLC-Q™ can achieve:
 - **30–50% reduction** in QA and maintenance costs
 - **2× faster** release cycles
 - Reduced defect leakage
@@ -123,7 +123,7 @@ Organizations adopting AIDLC™ can achieve:
 
 ## 🧪 Reference Implementation (Example)
 
-AIDLC™ can be implemented using existing tools such as:
+AIDLC-Q™ can be implemented using existing tools such as:
 - Playwright (UI & API automation)
 - Synthetic test data generation using GenAI
 - CI/CD pipelines (Azure DevOps, GitHub Actions)
@@ -145,7 +145,7 @@ Adoption is **incremental and low-risk**.
 
 ## 📣 Positioning Statement (Official)
 
-> AIDLC™ formalizes the use of AI across the SDLC, enabling organizations to deliver software faster, safer, and with higher confidence.
+> AIDLC-Q™ formalizes the use of AI across the SDLC, enabling organizations to deliver software faster, safer, and with higher confidence.
 
 ---
 
@@ -153,7 +153,7 @@ Adoption is **incremental and low-risk**.
 
 When referencing this framework, please use:
 
-> *“Based on the AIDLC™ (AI-Driven Development & Quality Lifecycle) framework created by Kiran Kumar Kanumuri.”*
+> *“Based on the AIDLC-Q™ (AI-Driven Development & Quality Lifecycle) framework created by Kiran Kumar Kanumuri.”*
 
 ---
 
