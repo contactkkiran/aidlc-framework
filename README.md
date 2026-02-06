@@ -1,3 +1,6 @@
+
+![AIDLC Lifecycle](Docs/aidlc-lifecycle.png)
+
 # AIDLC™ – AI-Driven Development & Quality Lifecycle
 
 **Created by: Kiran Kumar Kanumuri**
